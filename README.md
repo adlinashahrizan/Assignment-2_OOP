@@ -12,17 +12,17 @@ Snake Game is a grid-based arcade game where players control a snake that moves 
 
 🎯 Game Levels
 * Level 1:
-  Difficulty: Easy
-  Number of Fruits: Low
-  Obstacles: None
+  - Difficulty: Easy
+  - Number of Fruits: Low
+  - Obstacles: None
 * Level 2:
-  Difficulty: Medium
-  Number of Fruits: Average
-  Obstacles: None
+  - Difficulty: Medium
+  - Number of Fruits: Average
+  - Obstacles: None
 * Level 3:
-  Difficulty: High
-  Number of Fruits: High
-  Obstacles: Rocks
+  - Difficulty: High
+  - Number of Fruits: High
+  - Obstacles: Rocks
 
 🎮 How to Play
 1. Control the snake using arrow keys (or WASD) to move around the grid
