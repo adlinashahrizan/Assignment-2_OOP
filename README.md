@@ -1,8 +1,8 @@
 # Assignment-2_OOP
--> Game Overview
+--> Game Overview
 Snake Game is a grid-based arcade game where players control a snake that moves around collecting fruits. The objective is to collect a required number of fruits in each level while avoiding collisions with walls, the snake's own body, and obstacles. The game features three levels with increasing difficulty, making it progressively more challenging as players advance.
 
-✨ Features
+--> Features
 - 3 Progressive Levels – Each level increases in difficulty with faster snake speed and higher fruit collection requirements
 - Dynamic Difficulty – Snake speed increases with each level, requiring quicker reflexes and better planning
 - Obstacle System – Level 3 introduces rock obstacles that add an extra layer of challenge
@@ -10,7 +10,7 @@ Snake Game is a grid-based arcade game where players control a snake that moves 
 - Game Controls – Pause, resume, reset, and end game functionality
 - Collision Detection – Game ends upon collision with walls, snake's own body, or rocks (Level 3)
 
-🎯 Game Levels
+--> Game Levels
 * Level 1:
   - Difficulty: Easy
   - Number of Fruits: Low
@@ -24,7 +24,7 @@ Snake Game is a grid-based arcade game where players control a snake that moves 
   - Number of Fruits: High
   - Obstacles: Rocks
 
-🎮 How to Play
+--> How to Play ?
 1. Control the snake using arrow keys (or WASD) to move around the grid
 2. Eat fruits to gain points and increase your snake's length
 3. Collect the required number of fruits to advance to the next level
@@ -32,7 +32,7 @@ Snake Game is a grid-based arcade game where players control a snake that moves 
 5. Use the pause function to take a break whenever needed
 6. Reset the game at any time to start over from Level 1
 
-🧠 Benefits
+--> Benefits
 - Enhances problem-solving skills
 - Improves focus and concentration
 - Develops quick decision-making abilities
